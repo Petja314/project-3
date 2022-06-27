@@ -1,0 +1,253 @@
+@media (max-width: 1300px) {
+    .top-images {
+        margin-right: 20px;
+    }
+
+    .top-images_circle {
+        left: 180px;
+    }
+    .top-images{
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 1265px){
+    .reviews_slider_item{
+        box-shadow: none;
+    }
+    .reviews_slider .slick-list{
+        margin: 0;
+    }
+    .reviews_slider .slick-slide{
+        margin: 0;
+    }  
+
+    .slick-list{
+        margin: 0 ;
+    }
+    
+    .slick-track{
+        margin: 0 ;
+    }
+
+
+}
+
+@media (max-width: 1160px) {
+    .price_content {
+        flex-wrap: wrap;
+
+    }
+
+    .price_block {
+        min-width: 48%;
+        margin-bottom: 50px;
+       
+    }
+
+    .block_ammount {
+        margin: 0 auto;
+        left: 0;
+        right: 0;
+    }
+}
+
+@media (max-width: 1155px) {
+    .reviews_box {
+        width: 450px;
+    }
+
+    .slick-initialized .slick-slide {
+        display: block;
+        width: 489px;
+    }
+
+    .reviews_slider {
+        margin-top: 60px;
+    }
+
+    .reviews {
+        background-color: #fafafa;
+        padding: 20px 0;
+    }
+
+}
+
+@media (max-width: 1105px){
+.reviews_slider {
+    margin-top: 60px;
+}
+.reviews_box{
+    box-shadow: none;
+    margin: 0 auto;
+    width: 520px;
+}
+}
+
+
+@media (max-width: 955px) {
+    .menu_list {
+        display: none;
+        position: absolute;
+        top: 87px;
+        left: 0;
+        right: 0px;
+        width: 100%;
+        text-align: center;
+        border-top: 1px solid #000;
+        z-index: 5;
+    }
+
+    .menu_list li {
+        margin-left: 0;
+    }
+
+    .menu_list a {
+        display: block;
+        padding: 10px 0;
+        border-bottom: 1px solid #000;
+        background-color: #fff;
+
+    }
+
+    .btn_menu {
+        display: block;
+    }
+    .footer_inner{
+        flex-wrap: wrap;
+    }
+    .footer-col_logo{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    
+}
+
+@media (min-width: 995px) {
+    /* .price_block {
+        display: flex !important;
+    } */
+}
+
+@media (max-width: 855px) {
+    .top-images_box img {
+        width: 300px;
+    }
+
+    .top-images_circle {
+        width: 160px;
+        height: 160px;
+        left: 160px;
+    }
+}
+
+ @media (max-width: 770px){
+    .price_block{
+min-width: 100%;
+height: auto;
+    }
+    .block_ammount{
+        bottom: 623px;
+    }
+    .price_desc{
+        padding-bottom: 50px;
+    }
+    .price_title_h2{
+        margin-top: 30px;
+    }
+} 
+
+@media (max-width: 740px) {
+    .top_info_containers {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .top-info {
+        max-width: 100%;
+        margin-bottom: -120px;
+        margin-right: 0;
+        max-width: none;
+        padding-top: 50px;
+    }
+
+    .top_info_btn {
+        margin-top: 35px;
+        margin-left: 0;
+    }
+
+    .price {
+        margin-bottom: 50b  bpx;
+    }
+    .footer_form {
+        width: 100%;
+        margin-top: 30px;
+}
+.footer_inner {
+    display: flex;
+    justify-content: flex-start;
+}
+
+@media (max-width: 580px){
+    .reviews_box{
+        display: block;
+        width: 100%;
+    }
+    .reviews_box_images{
+        width: 100%;
+        min-height: 200px;
+    }
+    .reviews_box_content{
+        width: 100%;
+        padding: 0 20px;
+        min-height: 260px;
+        text-align: center;
+    }
+    .price_block{
+        margin-bottom: -100px;
+    }
+}
+
+@media (max-width: 399px) {
+    .top-info_title {
+        font-size: 40px;
+        line-height: 37px;
+    }
+
+    .top_info_btn {
+        margin-top: 35px;
+        margin-left: 0;
+    }
+
+    .price_title_h2{
+        font-size: 36px;
+        line-height: 40px;
+    }
+    .price_block_btn{
+        width: auto;
+    }
+    .block_ammount{
+        margin: 0 auto;
+        left: 0;
+        right: 0;
+        bottom: none;
+    }
+    .footer-menu{
+        margin-bottom: 30px;
+        width: 100%;
+    }
+    .footer_form{
+        margin-top: 0;
+    }
+}
+
+
+@media (max-width: 350px   ){
+    .block_ammount{
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    bottom: 667px;
+    }
+}
+
